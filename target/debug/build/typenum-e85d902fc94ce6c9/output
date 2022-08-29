@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/c/Users/KIIT/Desktop/web development/9march/clousres/snake_game/chat-app/evaluation/encrypter/target/debug/build/typenum-e85d902fc94ce6c9/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/c/Users/KIIT/Desktop/web development/9march/clousres/snake_game/chat-app/evaluation/encrypter/target/debug/build/typenum-e85d902fc94ce6c9/out/op.rs
